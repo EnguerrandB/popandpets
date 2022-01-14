@@ -214,6 +214,7 @@ em {
 }
 .hero-section__brand {
   /* top: calc(110px + 50px); */
+  top: 15%;
   margin-top: 10%;
   font-size: 3rem;
   font-weight: 700;
